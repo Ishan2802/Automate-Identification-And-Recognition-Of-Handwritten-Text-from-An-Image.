@@ -3,7 +3,8 @@ TCS iON 210 Internship:
 
 Automate Identification & Recognition of Handwritten Text from an Image
 
-#Dataset Used Link:https://colab.research.google.com/drive/1P4AGjhvoUXgtgFyLpq0aLlIk_XSZjpB3#scrollTo=PBpL7FFj7DRe
+#Google Colab Notebook Link: https://colab.research.google.com/drive/1P4AGjhvoUXgtgFyLpq0aLlIk_XSZjpB3#scrollTo=PBpL7FFj7DRe
+
 
 #IAM Dataset Master Link: http://www.fki.inf.unibe.ch/databases/iam-handwriting-database
 
